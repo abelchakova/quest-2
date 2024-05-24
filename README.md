@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Welcome to the Shark Attacks Dataset! This dataset is designed to help to understand the patterns and circumstances of shark attacks across the globe. By using pandas, a powerful data manipulation and analysis library in Python, we been able to create, manipulate, and analyze large and complex datasets. This dataset provides valuable informations to dive deep into the world of shark attacks, identifying trends, risks, and preventive measures.
+Welcome to the Shark Attacks Dataset! This dataset is designed to help to understand the patterns and circumstances of shark attacks across the globe. By using pandas, a powerful data manipulation and analysis library in Python, we've been able to create, manipulate, and analyze large and complex datasets. This dataset provides valuable informations to dive deep into the world of shark attacks, identifying trends, risks, and preventive measures.
 
 Happy analyzing! 🦈
 
@@ -12,11 +12,11 @@ About the Dataset
 
 Context
 
-The dataset comprises information on shark attacks worldwide. It provides detailed records of incidents, including the date, location, type of activity at the time of the attack, and characteristics of the victims. This data can be explored to identify safer travel destinations, recommend safer water activities, and understand the profile of typical shark attack victims.
+The dataset comprises information on shark attacks worldwide. It provides detailed records of incidents, including the date, location, type of activity at the time of the attack, and sharks' species. This data can be explored to identify safer travel destinations, recommend safer water activities, and understand the profile of typical shark attack victims. On the other hand this data can tell you which area has the richest shark population if a goal of your research is to find the best place to observe sharks.
 
 #### Content
 
-This dataset offers a comprehensive look at various aspects of shark attacks. It includes both categorical and numerical variables, providing insights into the timing, location, nature of the attack, and details about the victims.
+This dataset offers a comprehensive look at various aspects of shark attacks. It includes both categorical and numerical variables, providing insights into the timing, location, nature of the attack, and details about the victims and sharks.
 
 #### Acknowledgements
 
